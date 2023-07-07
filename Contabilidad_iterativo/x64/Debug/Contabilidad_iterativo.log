@@ -1,0 +1,3 @@
+﻿  contabilidad.cpp
+C:\Users\jaime\source\repos\FAL_SUBIR_GH\Contabilidad_iterativo\contabilidad.cpp(69,25): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Contabilidad_iterativo.vcxproj -> C:\Users\jaime\source\repos\FAL_SUBIR_GH\Contabilidad_iterativo\x64\Debug\Contabilidad_iterativo.exe
